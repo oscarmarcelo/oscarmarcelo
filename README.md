@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! I'm **Oscar Marcelo**
+
+I'm a designer specialized in web design and development and also icon design.
+
+[🌍 Website](//oscarmarcelo.com)
+|
+[🐦 Twitter](//twitter.com/oscarmarcelo)
+|
+[🏀 Dribbble](//dribbble.com/oscarmarcelo)
+|
+[📷 Instagram](//instagram.com/oscarmarcelo)
+|
+[🎧 Spotify](//open.spotify.com/user/oscarmarcelo)
+|
+[🎬 Letterboxd](//letterboxd.com/oscarmarcelo)
 
 <!--
 **oscarmarcelo/oscarmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
